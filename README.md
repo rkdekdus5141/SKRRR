@@ -70,12 +70,12 @@
 
 ## ⚙ 시스템 아키텍처(구조) 예시 
 ![image](https://github.com/user-attachments/assets/949a7bf0-8af0-4a73-8507-968ebd73534d)
-)
+
 <br>
 
 ## 📌 SW유스케이스
 ![image](https://github.com/user-attachments/assets/f2577b72-8fcf-43f3-b008-adb5907f8ec4)
-)
+
 <br>
 
 ## 📌 서비스 흐름도
@@ -84,7 +84,6 @@
 
 ## 📌 ER다이어그램
 ![image](https://github.com/user-attachments/assets/638b5735-071d-4b0b-bcb2-2c5e30100737)
-
 <br>
 
 ## 🖥 화면 구성
