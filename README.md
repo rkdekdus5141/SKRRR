@@ -48,7 +48,7 @@
     <tr>
         <td>서버환경</td>
         <td>
-           Node.js,Google Cloud
+           Node.js, Google Cloud
         </td>
     </tr>
     <tr>
