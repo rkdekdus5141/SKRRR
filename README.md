@@ -36,7 +36,7 @@
     <tr>
         <td>프레임워크</td>
         <td>
-            pyTorch, Hugging Face, lib, Pyannote
+            PyTorch, Hugging Face, lib, Pyannote
         </td>
     </tr>
     <tr>
